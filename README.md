@@ -7,6 +7,8 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+im living in turkey/kocaeli/derince
+
 😶‍🌫️software student at Sabancı VET😶‍🌫️<br>
 ⚽i like football and volleyball🥎<br>
 🍨my favorite ice cream is purple twister🍦<br>
